@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # simple uninstaller script
 echo "+---- ---- ---- ---- ----+"
 echo "| Removing globalprotect |"

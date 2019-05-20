@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # setup folders
 mkdir ~/Downloads/extract_vpn_temp/
 
