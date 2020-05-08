@@ -1,3 +1,5 @@
+This repo is archived and may not work for future use.
+
 # VPN Installer for Florida Polytechnic University
 
 Small, simple scripts for install the Florida Polytechnic University's VPN Client for accessing the Ember lab. If you're already on their network, no need for the VPN Client to be running. In remote scenarios, the VPN is necessary. I recommend creating an alias in you `.bashrc` or `.zshrc` file to the `vpn_conect.sh` script so you can connect quicker and easier. See below on how to o that.
